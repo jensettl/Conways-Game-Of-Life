@@ -5,7 +5,7 @@
 Conway's Game of Life is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves.
 Algorithmically predicting the fate of the game's patterns is impossible.
 
-# Motivation
+## Motivation
 
 Never worked with PyGame before, so I decided to make a simple game to get familiar with it. I also wanted to implement Conway's Game of Life, as I had heard about it in a video by Veritasium.
 
@@ -31,6 +31,11 @@ python3 main.py
 ```
 
 ## Screenshots
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="resources\game-of-life-generate-random-board.png" alt="Screenshot1" width="45%">
+    <img src="resources\game-of-life-finished-board.png" alt="Screenshot2" width="45%">
+</div>
 
 ## References
 
